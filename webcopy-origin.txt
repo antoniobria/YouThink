@@ -1,280 +1,900 @@
 Uri: http://192.168.1.124/
-File Name: C:\Downloaded Web Sites\192.168.1.124\index-2.htm
+File Name: C:\Downloaded Web Sites\192.168.1.124\index.htm
 Content Type: text/html
 
 Uri: http://192.168.1.124/12-2/
-File Name: C:\Downloaded Web Sites\192.168.1.124\12-2\index-2.htm
+File Name: C:\Downloaded Web Sites\192.168.1.124\12-2\index.htm
 Content Type: text/html
 
 Uri: http://192.168.1.124/15-2/
-File Name: C:\Downloaded Web Sites\192.168.1.124\15-2\index-2.htm
+File Name: C:\Downloaded Web Sites\192.168.1.124\15-2\index.htm
 Content Type: text/html
 
 Uri: http://192.168.1.124/comments/feed/
-File Name: C:\Downloaded Web Sites\192.168.1.124\comments\feed\index-2.htm
+File Name: C:\Downloaded Web Sites\192.168.1.124\comments\feed\index.htm
 Content Type: application/rss+xml
 
 Uri: http://192.168.1.124/feed/
-File Name: C:\Downloaded Web Sites\192.168.1.124\feed\index-2.htm
+File Name: C:\Downloaded Web Sites\192.168.1.124\feed\index.htm
 Content Type: application/rss+xml
 
 Uri: http://192.168.1.124/immagini/
-File Name: C:\Downloaded Web Sites\192.168.1.124\immagini\index-2.htm
+File Name: C:\Downloaded Web Sites\192.168.1.124\immagini\index.htm
 Content Type: text/html
 
 Uri: http://192.168.1.124/musica/
-File Name: C:\Downloaded Web Sites\192.168.1.124\musica\index-2.htm
+File Name: C:\Downloaded Web Sites\192.168.1.124\musica\index.htm
 Content Type: text/html
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/css/blocks.css?ver=20220912
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\css\blocks-2.css
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\css\blocks.css
 Content Type: text/css
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/font-libre-franklin.css?ver=20230328
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\font-libre-franklin-2.css
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\font-libre-franklin.css
 Content Type: text/css
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-all-300-italic.woff?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-300-italic-2.woff
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-300-italic.woff
 Content Type: font/woff
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-all-300-normal.woff?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-300-normal-2.woff
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-300-normal.woff
 Content Type: font/woff
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-all-400-italic.woff?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-400-italic-2.woff
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-400-italic.woff
 Content Type: font/woff
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-all-400-normal.woff?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-400-normal-2.woff
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-400-normal.woff
 Content Type: font/woff
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-all-600-italic.woff?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-600-italic-2.woff
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-600-italic.woff
 Content Type: font/woff
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-all-600-normal.woff?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-600-normal-2.woff
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-600-normal.woff
 Content Type: font/woff
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-all-800-italic.woff?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-800-italic-2.woff
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-800-italic.woff
 Content Type: font/woff
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-all-800-normal.woff?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-800-normal-2.woff
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-all-800-normal.woff
 Content Type: font/woff
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-300-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-300-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-300-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-300-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-300-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-300-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-400-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-400-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-400-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-400-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-400-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-400-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-600-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-600-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-600-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-600-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-600-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-600-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-800-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-800-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-800-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-800-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-800-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-800-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-ext-300-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-300-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-300-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-ext-300-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-300-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-300-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-ext-400-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-400-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-400-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-ext-400-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-400-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-400-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-ext-600-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-600-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-600-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-ext-600-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-600-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-600-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-ext-800-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-800-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-800-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-latin-ext-800-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-800-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-latin-ext-800-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-vietnamese-300-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-300-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-300-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-vietnamese-300-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-300-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-300-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-vietnamese-400-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-400-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-400-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-vietnamese-400-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-400-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-400-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-vietnamese-600-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-600-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-600-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-vietnamese-600-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-600-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-600-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-vietnamese-800-italic.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-800-italic-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-800-italic.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/fonts/libre-franklin/libre-franklin-vietnamese-800-normal.woff2?ver=13
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-800-normal-2.woff2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\fonts\libre-franklin\libre-franklin-vietnamese-800-normal.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/js/global.js?ver=20211130
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\js\global-2.js
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\js\global.js
 Content Type: application/javascript
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.3
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\js\jquery.scrollTo-2.js
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\js\jquery.scrollTo.js
 Content Type: application/javascript
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/assets/js/navigation.js?ver=20210122
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\js\navigation-2.js
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\assets\js\navigation.js
 Content Type: application/javascript
 
 Uri: http://192.168.1.124/wp-content/themes/twentyseventeen/style.css?ver=20230808
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\style-2.css
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\themes\twentyseventeen\style.css
 Content Type: text/css
 
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/01-Acquedotto-San-Vito-300x190.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\01-Acquedotto-San-Vito-300x190.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/01-Acquedotto-San-Vito-768x486.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\01-Acquedotto-San-Vito-768x486.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/01-Acquedotto-San-Vito.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\01-Acquedotto-San-Vito.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/02-Antwerpen-1-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\02-Antwerpen-1-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/02-Antwerpen-1-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\02-Antwerpen-1-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/02-Antwerpen-1-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\02-Antwerpen-1-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/02-Antwerpen-1-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\02-Antwerpen-1-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/02-Antwerpen-1-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\02-Antwerpen-1-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/03-Auschwitz-1-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\03-Auschwitz-1-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/03-Auschwitz-1-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\03-Auschwitz-1-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/03-Auschwitz-1-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\03-Auschwitz-1-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/03-Auschwitz-1-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\03-Auschwitz-1-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/03-Auschwitz-1-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\03-Auschwitz-1-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/04-Auschwitz-1-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\04-Auschwitz-1-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/04-Auschwitz-1-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\04-Auschwitz-1-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/04-Auschwitz-1-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\04-Auschwitz-1-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/04-Auschwitz-1-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\04-Auschwitz-1-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/04-Auschwitz-1-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\04-Auschwitz-1-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/05-Buenos-Aires-1-1024x664.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\05-Buenos-Aires-1-1024x664.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/05-Buenos-Aires-1-1536x996.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\05-Buenos-Aires-1-1536x996.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/05-Buenos-Aires-1-2048x1328.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\05-Buenos-Aires-1-2048x1328.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/05-Buenos-Aires-1-300x195.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\05-Buenos-Aires-1-300x195.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/05-Buenos-Aires-1-768x498.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\05-Buenos-Aires-1-768x498.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/06-Bikers-Riga-1-1024x675.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\06-Bikers-Riga-1-1024x675.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/06-Bikers-Riga-1-1536x1013.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\06-Bikers-Riga-1-1536x1013.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/06-Bikers-Riga-1-300x198.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\06-Bikers-Riga-1-300x198.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/06-Bikers-Riga-1-768x506.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\06-Bikers-Riga-1-768x506.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/06-Bikers-Riga-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\06-Bikers-Riga-1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/07-Musician-Riga-1-1024x682.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\07-Musician-Riga-1-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/07-Musician-Riga-1-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\07-Musician-Riga-1-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/07-Musician-Riga-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\07-Musician-Riga-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/07-Musician-Riga-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\07-Musician-Riga-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/07-Musician-Riga-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\07-Musician-Riga-1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/08-Riga-BF-1024x659.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\08-Riga-BF-1024x659.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/08-Riga-BF-1536x989.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\08-Riga-BF-1536x989.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/08-Riga-BF-2048x1318.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\08-Riga-BF-2048x1318.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/08-Riga-BF-300x193.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\08-Riga-BF-300x193.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/08-Riga-BF-768x494.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\08-Riga-BF-768x494.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/09-Berlin-Shoah-1024x768.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\09-Berlin-Shoah-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/09-Berlin-Shoah-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\09-Berlin-Shoah-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/09-Berlin-Shoah-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\09-Berlin-Shoah-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/09-Berlin-Shoah-300x225.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\09-Berlin-Shoah-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/09-Berlin-Shoah-768x576.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\09-Berlin-Shoah-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/10-Berlino-Shoah-1024x768.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\10-Berlino-Shoah-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/10-Berlino-Shoah-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\10-Berlino-Shoah-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/10-Berlino-Shoah-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\10-Berlino-Shoah-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/10-Berlino-Shoah-300x225.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\10-Berlino-Shoah-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/10-Berlino-Shoah-768x576.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\10-Berlino-Shoah-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/11-Bled-Jizero-1-1024x653.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\11-Bled-Jizero-1-1024x653.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/11-Bled-Jizero-1-1536x979.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\11-Bled-Jizero-1-1536x979.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/11-Bled-Jizero-1-2048x1306.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\11-Bled-Jizero-1-2048x1306.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/11-Bled-Jizero-1-300x191.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\11-Bled-Jizero-1-300x191.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/11-Bled-Jizero-1-768x490.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\11-Bled-Jizero-1-768x490.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/12-Asian-300x189.jpeg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\12-Asian-300x189.jpeg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/12-Asian-768x483.jpeg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\12-Asian-768x483.jpeg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/12-Asian.jpeg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\12-Asian.jpeg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/13-Londra-1024x654.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\13-Londra-1024x654.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/13-Londra-1536x981.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\13-Londra-1536x981.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/13-Londra-2048x1308.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\13-Londra-2048x1308.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/13-Londra-300x192.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\13-Londra-300x192.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/13-Londra-768x491.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\13-Londra-768x491.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/14-Praha-CG-1024x655.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\14-Praha-CG-1024x655.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/14-Praha-CG-1536x982.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\14-Praha-CG-1536x982.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/14-Praha-CG-2048x1310.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\14-Praha-CG-2048x1310.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/14-Praha-CG-300x192.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\14-Praha-CG-300x192.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/14-Praha-CG-768x491.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\14-Praha-CG-768x491.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/15-Bukhara-1024x686.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\15-Bukhara-1024x686.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/15-Bukhara-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\15-Bukhara-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/15-Bukhara-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\15-Bukhara-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/15-Bukhara-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\15-Bukhara-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/15-Bukhara-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\15-Bukhara-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/16-Bukhara-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\16-Bukhara-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/16-Bukhara-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\16-Bukhara-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/16-Bukhara-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\16-Bukhara-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/16-Bukhara-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\16-Bukhara-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/16-Bukhara-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\16-Bukhara-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/17-Bukhara-gypsy-1-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\17-Bukhara-gypsy-1-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/17-Bukhara-gypsy-1-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\17-Bukhara-gypsy-1-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/17-Bukhara-gypsy-1-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\17-Bukhara-gypsy-1-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/17-Bukhara-gypsy-1-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\17-Bukhara-gypsy-1-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/17-Bukhara-gypsy-1-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\17-Bukhara-gypsy-1-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/18-Samarqand-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\18-Samarqand-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/18-Samarqand-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\18-Samarqand-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/18-Samarqand-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\18-Samarqand-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/18-Samarqand-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\18-Samarqand-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/18-Samarqand-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\18-Samarqand-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/19-Samarqand-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\19-Samarqand-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/19-Samarqand-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\19-Samarqand-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/19-Samarqand-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\19-Samarqand-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/19-Samarqand-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\19-Samarqand-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/19-Samarqand-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\19-Samarqand-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/20-Samarqand-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\20-Samarqand-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/20-Samarqand-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\20-Samarqand-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/20-Samarqand-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\20-Samarqand-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/20-Samarqand-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\20-Samarqand-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/20-Samarqand-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\20-Samarqand-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/21-Samarqand-1-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\21-Samarqand-1-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/21-Samarqand-1-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\21-Samarqand-1-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/21-Samarqand-1-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\21-Samarqand-1-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/21-Samarqand-1-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\21-Samarqand-1-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/21-Samarqand-1-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\21-Samarqand-1-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/22-Tallin-1024x768.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\22-Tallin-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/22-Tallin-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\22-Tallin-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/22-Tallin-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\22-Tallin-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/22-Tallin-300x225.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\22-Tallin-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/22-Tallin-768x576.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\22-Tallin-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/23Tallin-1024x768.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\23Tallin-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/23Tallin-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\23Tallin-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/23Tallin-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\23Tallin-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/23Tallin-300x225.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\23Tallin-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/23Tallin-768x576.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\23Tallin-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/24-Berlin-Alexanderplatz-1024x670.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\24-Berlin-Alexanderplatz-1024x670.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/24-Berlin-Alexanderplatz-1536x1005.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\24-Berlin-Alexanderplatz-1536x1005.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/24-Berlin-Alexanderplatz-2048x1340.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\24-Berlin-Alexanderplatz-2048x1340.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/24-Berlin-Alexanderplatz-300x196.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\24-Berlin-Alexanderplatz-300x196.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/24-Berlin-Alexanderplatz-768x503.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\24-Berlin-Alexanderplatz-768x503.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/25-Berlin-1-1024x768.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\25-Berlin-1-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/25-Berlin-1-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\25-Berlin-1-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/25-Berlin-1-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\25-Berlin-1-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/25-Berlin-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\25-Berlin-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/25-Berlin-1-768x576.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\25-Berlin-1-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/26-bran-castelul-dracula-1024x613.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\26-bran-castelul-dracula-1024x613.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/26-bran-castelul-dracula-300x180.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\26-bran-castelul-dracula-300x180.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/26-bran-castelul-dracula-768x460.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\26-bran-castelul-dracula-768x460.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/26-bran-castelul-dracula.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\26-bran-castelul-dracula.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/27-Mont-Saint-Michel-1024x768.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\27-Mont-Saint-Michel-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/27-Mont-Saint-Michel-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\27-Mont-Saint-Michel-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/27-Mont-Saint-Michel-2048x1535.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\27-Mont-Saint-Michel-2048x1535.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/27-Mont-Saint-Michel-300x225.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\27-Mont-Saint-Michel-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/27-Mont-Saint-Michel-768x576.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\27-Mont-Saint-Michel-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/28-Buenos-Aires-1024x768.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\28-Buenos-Aires-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/28-Buenos-Aires-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\28-Buenos-Aires-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/28-Buenos-Aires-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\28-Buenos-Aires-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/28-Buenos-Aires-300x225.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\28-Buenos-Aires-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/28-Buenos-Aires-768x576.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\28-Buenos-Aires-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/29-Colonia-2-1024x768.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\29-Colonia-2-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/29-Colonia-2-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\29-Colonia-2-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/29-Colonia-2-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\29-Colonia-2-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/29-Colonia-2-300x225.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\29-Colonia-2-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/29-Colonia-2-768x576.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\29-Colonia-2-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/30-Ferghana-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\30-Ferghana-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/30-Ferghana-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\30-Ferghana-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/30-Ferghana-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\30-Ferghana-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/30-Ferghana-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\30-Ferghana-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/30-Ferghana-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\30-Ferghana-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/31-Ostrawa-1024x768.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\31-Ostrawa-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/31-Ostrawa-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\31-Ostrawa-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/31-Ostrawa-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\31-Ostrawa-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/31-Ostrawa-300x225.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\31-Ostrawa-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/31-Ostrawa-768x576.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\31-Ostrawa-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/32-Tashkent-1-1024x685.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\32-Tashkent-1-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/32-Tashkent-1-1536x1028.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\32-Tashkent-1-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/32-Tashkent-1-2048x1371.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\32-Tashkent-1-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/32-Tashkent-1-300x201.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\32-Tashkent-1-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/32-Tashkent-1-768x514.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\32-Tashkent-1-768x514.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.1.124/wp-content/uploads/2023/11/cropped-29-Colonia-scaled-1-1024x614.jpg
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1-1024x614-2.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1-1024x614.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.1.124/wp-content/uploads/2023/11/cropped-29-Colonia-scaled-1-1536x921.jpg
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1-1536x921-2.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1-1536x921.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.1.124/wp-content/uploads/2023/11/cropped-29-Colonia-scaled-1-300x180.jpg
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1-300x180-2.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1-300x180.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.1.124/wp-content/uploads/2023/11/cropped-29-Colonia-scaled-1-768x460.jpg
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1-768x460-2.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1-768x460.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.1.124/wp-content/uploads/2023/11/cropped-29-Colonia-scaled-1.jpg
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1-2.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.1.124/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\css\dist\block-library\style.min-2.css
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\css\dist\block-library\style.min.css
 Content Type: text/css
 
 Uri: http://192.168.1.124/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\js\jquery\jquery-migrate.min-2.js
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\js\jquery\jquery-migrate.min.js
 Content Type: application/javascript
 
 Uri: http://192.168.1.124/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\js\jquery\jquery.min-2.js
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\js\jquery\jquery.min.js
 Content Type: application/javascript
 
 Uri: http://192.168.1.124/wp-json/
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\index-2.htm
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\index.htm
 Content Type: application/json
 
 Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2F
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-20
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed
 Content Type: application/json
 
 Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2F&format=xml
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-21
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-1
 Content Type: text/xml
 
 Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2F12-2%2F
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-22
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-2
 Content Type: application/json
 
 Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2F12-2%2F&format=xml
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-23
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-3
 Content Type: text/xml
 
 Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2F15-2%2F
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-24
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-4
 Content Type: application/json
 
 Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2F15-2%2F&format=xml
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-25
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-5
 Content Type: text/xml
 
 Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fimmagini%2F
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-26
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-6
 Content Type: application/json
 
 Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fimmagini%2F&format=xml
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-27
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-7
 Content Type: text/xml
 
 Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fmusica%2F
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-28
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-8
 Content Type: application/json
 
 Uri: http://192.168.1.124/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.1.124%2Fmusica%2F&format=xml
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-29
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\oembed\1.0\embed-9
 Content Type: text/xml
 
 Uri: http://192.168.1.124/wp-json/wp/v2/pages/12
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\12-2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\12
 Content Type: application/json
 
 Uri: http://192.168.1.124/wp-json/wp/v2/pages/15
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\15-2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\15
 Content Type: application/json
 
 Uri: http://192.168.1.124/wp-json/wp/v2/pages/21
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\21-2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\21
 Content Type: application/json
 
 Uri: http://192.168.1.124/wp-json/wp/v2/pages/24
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\24-2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\24
 Content Type: application/json
 
 Uri: http://192.168.1.124/wp-json/wp/v2/pages/7
-File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\7-2
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-json\wp\v2\pages\7
 Content Type: application/json
 
 Uri: http://192.168.1.124/xmlrpc.php?rsd
-File Name: C:\Downloaded Web Sites\192.168.1.124\xmlrpc-2.php
+File Name: C:\Downloaded Web Sites\192.168.1.124\xmlrpc.php
 Content Type: text/xml
 
