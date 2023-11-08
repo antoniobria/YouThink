@@ -914,6 +914,10 @@ Uri: http://192.168.1.124/wp-content/uploads/2023/11/32-Tashkent-1-scaled.jpg
 File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\32-Tashkent-1-scaled.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/Cavalleria-Rusticana-Antonio-Bria.pdf
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\Cavalleria-Rusticana-Antonio-Bria.pdf
+Content Type: application/pdf
+
 Uri: http://192.168.1.124/wp-content/uploads/2023/11/cropped-29-Colonia-scaled-1-1024x614.jpg
 File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1-1024x614.jpg
 Content Type: image/jpeg
@@ -933,6 +937,14 @@ Content Type: image/jpeg
 Uri: http://192.168.1.124/wp-content/uploads/2023/11/cropped-29-Colonia-scaled-1.jpg
 File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\cropped-29-Colonia-scaled-1.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.1.124/wp-content/uploads/2023/11/LIsola-del-Vurdalak.pdf
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-content\uploads\2023\11\LIsola-del-Vurdalak.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.1.124/wp-includes/blocks/file/view.min.js?ver=9d287166f699a66eff3b
+File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\blocks\file\view.min.js
+Content Type: application/javascript
 
 Uri: http://192.168.1.124/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2
 File Name: C:\Downloaded Web Sites\192.168.1.124\wp-includes\css\dist\block-library\style.min.css
